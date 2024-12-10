@@ -1,7 +1,7 @@
 import { initializeApp } from 'firebase/app'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAjUCGlKZL8z6jWBKZBFq7KxTVknJdhPsQ",
+    apiKey: "",
     authDomain: "brs---equipement-panel.firebaseapp.com",
     projectId: "brs---equipement-panel",
     storageBucket: "brs---equipement-panel.appspot.com",
